@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto Agrinho - TecnoCampo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo">Agrinho<span>Tec</span></div>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Início</a></li>
+                <li><a href="#sobre">Sobre</a></li>
+                <li><a href="#tecnologia">Tecnologia</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="inicio" class="hero">
+        <div class="hero-content">
+            <h1>O Futuro da Agricultura é Sustentável</h1>
+            <p>Unindo tecnologia e inovação para transformar o campo e proteger o meio ambiente.</p>
+            <a href="#sobre" class="btn">Saiba Mais</a>
+        </div>
+    </section>
+
+    <section id="sobre" class="container">
+        <h2>Sobre o Projeto Agrinho</h2>
+        <p>O Projeto Agrinho tem como objetivo incentivar o conhecimento sobre o campo, a sustentabilidade e a importância da agricultura na nossa sociedade. Esta plataforma digital busca conectar estudantes e produtores às práticas mais modernas e ecológicas do setor.</p>
+    </section>
+
+    <section id="tecnologia" class="features container">
+        <div class="card">
+            <h3>Gestão de Água</h3>
+            <p>Sistemas inteligentes de irrigação que evitam o desperdício de recursos hídricos.</p>
+        </div>
+        <div class="card">
+            <h3>Energia Limpa</h3>
+            <p>Uso de painéis solares e biomassa para alimentar as propriedades rurais.</p>
+        </div>
+        <div class="card">
+            <h3>Drones no Campo</h3>
+            <p>Monitoramento de pragas e mapeamento de solo em tempo real com alta precisão.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 Projeto Agrinho - Desenvolvido para o GitHub. Todos os direitos reservados.</p>
+    </footer>
+
+</body>
+</html>
