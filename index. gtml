@@ -54,3 +54,45 @@
 
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto Agrinho 2026 - TecnoCampo</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo">Agrinho<span>Tec</span></div>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Início</a></li>
+                <li><a href="#sobre">O Agrinho</a></li>
+                <li><a href="#edicao2026">Edição 2026</a></li>
+                <li><a href="#tecnologia">Tecnologias</a></li>
+                <li><a href="#concurso">Concurso</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="inicio" class="hero">
+        <div class="hero-content">
+            <span class="badge">Edição 2026</span>
+            <h1>Conectando o Futuro Sustentável</h1>
+            <p>A união da inovação digital com a força do campo. Descubra como a tecnologia e a educação estão transformando o ecossistema agrícola.</p>
+            <div class="hero-buttons">
+                <a href="#edicao2026" class="btn-primary">Explorar Edição 2026</a>
+                <a href="#concurso" class="btn-secondary">Ver Concurso</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="sobre" class="container section-padding">
+        <div class="grid-2">
+            <div class="sobre-texto">
+                <h2>O Que é o Projeto Agrinho?</h2>
+                <p>O Agrinho é o maior programa de responsabilidade social do setor, integrando a realidade do campo com a educação básica. O objetivo é desenvolver o pensamento crítico, a cidadania e a consciência ecológica em milhares de estudantes e professores.</p
